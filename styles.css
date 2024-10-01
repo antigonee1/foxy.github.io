@@ -127,7 +127,7 @@ body{
 }
 .home .foxy h3, .home .foxy p{
     
-    text-shadow: var(--shadow);
+    text-shadow: var(--bg);
     backdrop-filter: blur(4px);
 }
 
