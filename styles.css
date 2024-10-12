@@ -10,7 +10,7 @@ body{
     font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
-    min-height: 4000px;
+    min-height: 3000px;
 }
 .hero::before{
     content: '';
